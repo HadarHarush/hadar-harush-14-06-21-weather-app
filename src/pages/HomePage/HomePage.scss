@@ -1,0 +1,16 @@
+.home-page {
+  .search-box {
+    margin-bottom: 15px;
+  }
+  .city-details {
+    max-width: 900px;
+    padding: 20px 30px;
+    border: 1px solid black;
+    > *:not(:last-child) {
+      margin-bottom: 70px;
+    }
+    .city-title {
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,29 @@
+@import '../../assets/scss/setup/variables';
+
+.app-header {
+  .main-container {
+    padding-inline-end: unset;
+    .logo-button {
+      > img {
+        margin-inline-end: 0.5rem;
+      }
+      > h6 {
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+.switches {
+  padding: 10px 20px;
+  z-index: 10;
+  position: fixed;
+  // margin-top: 70px;
+}
+@media (max-width: $break-normal) {
+  .switches {
+    width: 100%;
+    flex-direction: row;
+    position: static;
+  }
+}

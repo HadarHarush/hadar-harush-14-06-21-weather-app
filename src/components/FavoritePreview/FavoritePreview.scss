@@ -1,0 +1,24 @@
+.favorite-preview {
+  padding: 10px 15px;
+
+  p {
+    &:not(.title) {
+      max-width: 8ch;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: unset;
+    }
+    &.title {
+      font-weight: 600;
+    }
+    &:not(:last-of-type) {
+      margin-bottom: 0.25rem;
+    }
+    &:last-of-type {
+      margin-bottom: 1rem;
+    }
+  }
+  img {
+    margin-bottom: 1rem;
+  }
+}

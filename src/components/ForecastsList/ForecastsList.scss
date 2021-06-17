@@ -1,0 +1,9 @@
+.forecasts-list {
+  max-width: 700px;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  // > *:not(:last-child) {
+  //   margin-inline-end: 30px;
+  // }
+}
