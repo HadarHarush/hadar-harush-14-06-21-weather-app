@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hadar-harush-14-06-21-weather-app/static/css/main.c1772a48.chunk.css",
+    "main.js": "/hadar-harush-14-06-21-weather-app/static/js/main.8be22cf2.chunk.js",
+    "main.js.map": "/hadar-harush-14-06-21-weather-app/static/js/main.8be22cf2.chunk.js.map",
+    "runtime-main.js": "/hadar-harush-14-06-21-weather-app/static/js/runtime-main.cd4b4ec9.js",
+    "runtime-main.js.map": "/hadar-harush-14-06-21-weather-app/static/js/runtime-main.cd4b4ec9.js.map",
+    "static/css/2.97503911.chunk.css": "/hadar-harush-14-06-21-weather-app/static/css/2.97503911.chunk.css",
+    "static/js/2.aeafcad4.chunk.js": "/hadar-harush-14-06-21-weather-app/static/js/2.aeafcad4.chunk.js",
+    "static/js/2.aeafcad4.chunk.js.map": "/hadar-harush-14-06-21-weather-app/static/js/2.aeafcad4.chunk.js.map",
+    "index.html": "/hadar-harush-14-06-21-weather-app/index.html",
+    "static/css/2.97503911.chunk.css.map": "/hadar-harush-14-06-21-weather-app/static/css/2.97503911.chunk.css.map",
+    "static/css/main.c1772a48.chunk.css.map": "/hadar-harush-14-06-21-weather-app/static/css/main.c1772a48.chunk.css.map",
+    "static/js/2.aeafcad4.chunk.js.LICENSE.txt": "/hadar-harush-14-06-21-weather-app/static/js/2.aeafcad4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd4b4ec9.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.aeafcad4.chunk.js",
+    "static/css/main.c1772a48.chunk.css",
+    "static/js/main.8be22cf2.chunk.js"
+  ]
+}
